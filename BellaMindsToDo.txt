@@ -1,0 +1,8 @@
+BellaMinds to do
+create
+
+all hrefs
+<li href="Mission.html">Mission</li>
+				<li href="BigProblems.html">Help Us Solve Big Problems</li>
+				<li href="BellaMindsWho.html">Who are Bella Minds</li>
+				<li href="Login.html">Login</li>
