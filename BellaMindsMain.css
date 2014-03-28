@@ -1,6 +1,18 @@
+.navContainer{
+
+}
+ul{
+	list-style: none;
+	display: inline-block;
+}
+.container{
+	width: 100%;
+
+}
 .section1{
 	background-color: grey;
 	min-height: 400px;
+	width: 100%;
 }
 .section2{
 	background-color: pink;
@@ -9,4 +21,14 @@
 .section3{
 	background-color: grey;
 	min-height: 400px;
+}
+
+h1{
+	color: white;
+	margin-top: 0;
+}
+
+/*Custom Styles */
+.tAc{
+	text-align: center;
 }
